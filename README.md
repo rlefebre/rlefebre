@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a recent B.S. in electrical engineering, looking to pursue a career in data science. I'm interested in computer vision and machine learning.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning how to work with cloud services.
+- 👯 I’m looking to collaborate on computer vision and machine learning projects.
+
 <!--
 **rlefebre/rlefebre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
