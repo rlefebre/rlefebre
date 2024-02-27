@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a recent B.S. in electrical engineering, looking to pursue a career in data science. I'm interested in computer vision and machine learning.
+My name is Ricardo, and I'm a B.S. in electrical engineering looking to pursue a career in data science.
+I was trained in computer vision and machine learning, but I'm interested in everything related to data science, and I'm willing to discover and learn new topics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how to work with cloud services.
